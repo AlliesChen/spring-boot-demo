@@ -1,6 +1,6 @@
 # Java Spring Boot CRUD Demo
 
-The project is base on [the tutorial of Amigoscode](https://youtu.be/9SGDpanrc8U?si=ltpJCdu0aMvKlvmO)
+The project is base on [the tutorial of Amigoscode]()
 
 I add a global exception handling and have the controller to response with HTTP status code.
 
